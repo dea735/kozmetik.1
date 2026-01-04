@@ -1,0 +1,51 @@
+Final commit i projektit te kozmetikes 
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   Dokumentacioni.html
+#	modified:   Faqjakryesore.html
+#	modified:   Galeria.html
+#	modified:   GlossMat&Shiny.html
+#	new file:   Images/Blackfriday.webp
+#	new file:   Images/FOTO LOGO.webp
+#	new file:   Images/Glossi.png
+#	new file:   Images/Kylie.webp
+#	new file:   Images/Palette.webp
+#	new file:   Images/Stormi.jpg
+#	new file:   Images/blushofert.jfif
+#	new file:   Images/bodylotion.webp
+#	new file:   Images/foundation.avif
+#	new file:   Images/glosspink.jfif
+#	new file:   Images/glossshiny.png
+#	new file:   Images/highlighter.webp
+#	new file:   Images/highlighterface.webp
+#	new file:   Images/lipoil.webp
+#	new file:   Images/lipstick&lippliner sets.webp
+#	new file:   Images/nude.jfif
+#	new file:   Images/oferta1.jfif
+#	new file:   Images/set.jfif
+#	new file:   Images/sherki.jfif
+#	new file:   Images/travel.avif
+#	modified:   Keshillabukurie.html
+#	modified:   Kontakti.html
+#	modified:   Meteshiturat.html
+#	modified:   Oferta.html
+#	modified:   Perberja.html
+#	modified:   Produktet.html
+#	modified:   Rrethnesh.html
+#	modified:   Script.js
+#	modified:   Setet.html
+#	modified:   Style.css
+#	modified:   login.html
+#
+# Changes not staged for commit:
+#	modified:   Style.css
+#
+# Untracked files:
+#	Kozmetike.3.html
+#	Punimi Dredhez/
+#

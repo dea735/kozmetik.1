@@ -330,7 +330,6 @@ img {
     padding: 8px;
     box-shadow: 0 6px 15px rgba(0,0,0,0.15);
 }
-========================= */
 footer {
     background-color: #f8c1d9;
     padding: 15px;
@@ -783,7 +782,8 @@ h3 {
 
 .product-subtitle span {
   background: linear-gradient(to right, #ff77b7, #ff4fa3);
-  -webkit-background-clip: text;
+  background-clip: text;           /* standard*/
+  -webkit-background-clip: text;  /* Chrome/Safari */
   -webkit-text-fill-color: transparent;
 }
 

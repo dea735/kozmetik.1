@@ -1,0 +1,125 @@
+/* ===== RESET & BODY ===== */
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #fff;
+  color: #333;
+  text-align: center;
+}
+
+/* ===== HEADER ===== */
+header {
+  background-color: #ffe6f0;
+  padding: 15px 0;
+  border-bottom: 2px solid #f3c1d9;
+}
+
+/* ===== LOGO ===== */
+.logo {
+  width: 120px;
+  display: block;
+  margin: 0 auto 10px auto;
+}
+
+/* ===== NAVIGATION ===== */
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 0 12px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #d63384;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+}
+
+/* ===== MAIN CONTAINER ===== */
+.container {
+  padding: 30px 20px;
+}
+
+/* ===== HEADINGS ===== */
+h1, h2 {
+  color: #c2185b;
+}
+
+/* ===== BIO SECTIONS (PER NE) ===== */
+.bio {
+  background-color: #fff5f9;
+  margin: 20px auto;
+  padding: 20px;
+  max-width: 700px;
+  border-radius: 10px;
+  border: 1px solid #f3c1d9;
+}
+
+/* ===== GALLERY ===== */
+.gallery {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.gallery img {
+  width: 220px;
+  height: auto;
+  margin: 10px;
+  border-radius: 12px;
+  border: 2px solid #f3c1d9;
+}
+
+/* ===== FORMS (CONTACT & LOGIN) ===== */
+form {
+  margin-top: 20px;
+}
+
+input, textarea {
+  width: 260px;
+  padding: 10px;
+  margin: 8px 0;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+}
+
+textarea {
+  height: 100px;
+  resize: none;
+}
+
+/* ===== BUTTON ===== */
+button {
+  padding: 10px 25px;
+  margin-top: 10px;
+  border: none;
+  background-color: #d63384;
+  color: #fff;
+  border-radius: 6px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #b91d67;
+}
+
+/* ===== FOOTER ===== */
+footer {
+  margin-top: 40px;
+  padding: 15px 0;
+  background-color: #f8f8f8;
+  font-size: 14px;
+  color: #555;
+}
